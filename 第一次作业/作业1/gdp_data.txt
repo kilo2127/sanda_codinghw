@@ -1,0 +1,116 @@
+United States	25035164
+China	18321197
+Japan	4300621
+Germany	4031149
+India	3468566
+United Kingdom	3198470
+France	2778090
+Canada	2200352
+Russia	2133092
+Italy	1996934
+Brazil	1915262
+South Korea	1789667
+Australia	1604366
+Spain	1565830
+Indonesia	1376131
+Mexico	1227172
+Turkey	771216
+Netherlands	931638
+Saudi Arabia	815446
+Switzerland	752153
+Argentina	674040
+Taiwan	658229
+Poland	654176
+Sweden	643861
+Belgium	622986
+Thailand	615372
+Iran	610803
+Austria	487386
+Norway	455648
+United Arab Emirates	447749
+Nigeria	432829
+Israel	417188
+South Africa	385589
+Ireland	372230
+Hong Kong	368031
+Denmark	352907
+Malaysia	332811
+Singapore	327784
+Philippines	331546
+Colombia	321120
+Bangladesh	309192
+Pakistan	305168
+Chile	303137
+Egypt	297161
+Finland	289036
+Greece	285295
+Portugal	276830
+Iraq	274234
+Algeria	254473
+Qatar	239805
+Kazakhstan	234664
+Peru	229397
+Ukraine	226944
+Romania	217927
+Czech Republic	214131
+Vietnam	204749
+New Zealand	202697
+Belarus	202276
+Hungary	193109
+Azerbaijan	186203
+Angola	164160
+Tunisia	158996
+Oman	148305
+Kuwait	143751
+Myanmar	136292
+Slovakia	129129
+Luxembourg	125658
+Uzbekistan	119967
+Kenya	116554
+Croatia	107350
+Bulgaria	101325
+Lebanon	101235
+Serbia	96607
+Dominican Republic	91203
+Sri Lanka	82431
+Ethiopia	79813
+Costa Rica	75729
+Tanzania	74662
+Uruguay	72580
+Slovenia	72033
+Lithuania	69219
+Ghana	65963
+Jordan	65245
+Syria	61784
+Ivory Coast	61032
+Democratic Republic of the Congo	60988
+Libya	59410
+Austria-Hungary	57907
+Austria-USSR	55115
+United States of America	54909
+Panama	54826
+Latvia	54239
+Paraguay	51649
+Bahrain	50380
+Ecuador	48113
+Trinidad and Tobago	46217
+Estonia	45567
+Cambodia	45325
+Bosnia and Herzegovina	43588
+Gabon	43044
+Brunei	42187
+Equatorial Guinea	39273
+Mauritania	38572
+Botswana	36891
+North Macedonia	36359
+Puerto Rico	36017
+Moldova	34997
+Democratic Republic of Congo	34816
+Armenia	33714
+Albania	32757
+Lesotho	31549
+Namibia	31050
+Sri-Lanka	30249
+Jamaica	29888
+Mauritius	29362
+Slovak Republic	288
